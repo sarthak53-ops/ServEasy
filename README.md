@@ -1,5 +1,4 @@
-# ServEasy
-Smart Food Demand Prediction System with Billing, Inventory Tracking and Supplier Notification
+
 # ServEasy
 
 ServEasy is a **Smart Food Demand Prediction System** designed to help restaurants and food outlets manage their operations efficiently.
